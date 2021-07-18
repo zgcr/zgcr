@@ -4,8 +4,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=zgcr&count_private=true&show_icons=true&theme=tokyonight&layout=compact"  height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgcr&theme=tokyonight&layout=compact" height="150">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" "https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=simpleAICV-pytorch-ImageNet-COCO-training&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"  height="150" />
+### Github Repositories
+
+
+<a href="https://github.com/zgcr/simpleAICV-pytorch-ImageNet-COCO-training">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=simpleAICV-pytorch-ImageNet-COCO-training&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"  height="150" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=simpleAICV-pytorch-ImageNet-COCO-training&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"  height="150"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=AICITY2020_track2_reid_BeBetter&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"  height="150"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=WebCV&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"  height="150"> 
