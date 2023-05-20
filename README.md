@@ -1,4 +1,8 @@
-### CV算法工程师一枚 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&multiline=true&width=500&height=100&lines=AI+Engineer;Major+in+Computer+Vision" alt="Typing SVG" />
+</a>
+  
+<p>
 
 我的知乎专栏：[点我直达](https://www.zhihu.com/column/c_1249719688055193600)
 
