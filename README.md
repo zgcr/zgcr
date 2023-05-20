@@ -31,7 +31,7 @@
   <img alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" >
 </p>
 
-### Github Repositories
+### My popular Repositories
 
 <a href="https://github.com/zgcr/simpleAICV-pytorch-ImageNet-COCO-training">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=simpleAICV-pytorch-ImageNet-COCO-training&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  width="500" />
