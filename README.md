@@ -34,6 +34,6 @@
 ### My popular Repositories
 
 <a href="https://github.com/zgcr/simpleAICV-pytorch-ImageNet-COCO-training">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=simpleAICV-pytorch-ImageNet-COCO-training&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  width="500" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=simpleAICV-pytorch-ImageNet-COCO-training&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  height="150" />
 </a>
 
