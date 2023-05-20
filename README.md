@@ -20,16 +20,16 @@
 
 ### Visitor count
 
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/zgcr/count.svg" />
+<p> 
+  <img align="left" src="https://profile-counter.glitch.me/zgcr/count.svg" />
 </p>
 
 ### My usual programming languages
 
-<p align="left">
-  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
-  <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
-  <img alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" >
+<p>
+  <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
+  <img align="left" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img align="left" alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" >
 </p>
 
 ### My popular Repositories
