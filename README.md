@@ -15,10 +15,13 @@
   
 我的知乎专栏：[点我直达](https://www.zhihu.com/column/c_1249719688055193600)
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zgcr/count.svg" />
+</p>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zgcr&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"/>
 <img align="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgcr&theme=tokyonight&layout=compact" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=zgcr&count_private=true&show_icons=true&theme=tokyonight&layout=compact"  height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgcr&theme=tokyonight&layout=compact" height="150">
 
 ### Github Repositories
 
