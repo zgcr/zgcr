@@ -12,29 +12,28 @@
     <img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
 </p> 
 
+  
 我的知乎专栏：[点我直达](https://www.zhihu.com/column/c_1249719688055193600)
 
-<p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zgcr&count_private=true&show_icons=true&theme=tokyonight" height="150"/>
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zgcr/count.svg" />
 </p>
 
-### Visitor count
-
-<p> 
-  <img align="left" src="https://profile-counter.glitch.me/zgcr/count.svg" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zgcr&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"/>
+<img align="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgcr&theme=tokyonight&layout=compact" height="150" />
 
 ### My usual programming languages
 
-<p>
-  <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
-  <img align="left" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
-  <img align="left" alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" >
+<p align="left">
+  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
+  <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" >
 </p>
 
 ### My popular Repositories
 
 <a href="https://github.com/zgcr/simpleAICV-pytorch-ImageNet-COCO-training">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=simpleAICV-pytorch-ImageNet-COCO-training&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  height="150" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=simpleAICV-pytorch-ImageNet-COCO-training&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  width="500" />
 </a>
 
