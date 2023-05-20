@@ -3,7 +3,16 @@
 </a>
   
 <p>
+<a href="https://github.com/zgcr"> 
+    <img src="https://komarev.com/ghpvc/?username=zgcr&color=blue" height="25px" alt="github follow" /> 
+</a>
+<a href="https://github.com/zgcr?tab=followers"> 
+    <img src="https://img.shields.io/github/followers/zgcr?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
+<a href="https://www.zhihu.com/column/c_1249719688055193600">
+    <img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
+</p> 
 
+  
 我的知乎专栏：[点我直达](https://www.zhihu.com/column/c_1249719688055193600)
 
 <img src="https://github-readme-stats.vercel.app/api?username=zgcr&count_private=true&show_icons=true&theme=tokyonight&layout=compact"  height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgcr&theme=tokyonight&layout=compact" height="150">
