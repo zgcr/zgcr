@@ -20,8 +20,9 @@
   <img src="https://profile-counter.glitch.me/zgcr/count.svg" />
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zgcr&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"/>
-<img align="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgcr&theme=tokyonight&layout=compact" height="150" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zgcr&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"/>
+</p>
 
 ### My usual programming languages
 
