@@ -14,6 +14,7 @@
 
   
 pytorch CV任务训练测试示例：[点我直达](https://www.zhihu.com/column/c_1249719688055193600)
+
 SimpleAICV深度学习框架介绍：[点我直达](https://www.zhihu.com/column/c_1692623656205897728)
 
 <p align="left"> 
