@@ -36,7 +36,9 @@ SimpleAICV深度学习框架介绍：[点我直达](https://www.zhihu.com/column
 
 ### My popular Repositories
 
-<a href="https://github.com/zgcr/simpleAICV-pytorch-ImageNet-COCO-training">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=simpleAICV-pytorch-ImageNet-COCO-training&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  width="500" />
+<a href="https://github.com/zgcr/SimpleAICV_pytorch_training_examples">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=SimpleAICV_pytorch_training_examples&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  width="500" />
 </a>
-
+<a href="https://github.com/zgcr/SimpleClip_pytorch_training_examples">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zgcr&repo=SimpleClip_pytorch_training_examples&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  width="500" />
+</a>
